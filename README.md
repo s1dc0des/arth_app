@@ -31,3 +31,25 @@
 # Login
 
 ![Alt text](/screenshots/login.jpeg)
+
+# Homescreen
+
+![Alt text](/screenshots/home.png)
+
+# MINT
+
+![Alt text](/screenshots/mint.png)
+
+
+# Unmint
+
+![Alt text](/screenshots/unmint.png)
+
+
+# wallet
+
+![Alt text](/screenshots/wallet.png)
+
+# receive
+
+![Alt text](/screenshots/receive.png)
