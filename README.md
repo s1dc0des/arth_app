@@ -1,7 +1,7 @@
 
 *** please read the code carefully and use small amounts ***
 
--> install flutter
+install flutter
    https://flutter.dev/docs/get-started/install
 
 
@@ -20,6 +20,8 @@ App architecture
 login methods
    - internet identity
    - nfid
+
+
 features
    - mint/unmint btc<>ckbtc
    - wallet for ckbtc
