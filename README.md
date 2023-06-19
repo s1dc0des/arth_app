@@ -6,9 +6,11 @@
 
 
 How to run
-   ```git clone https://github.com/s1dc0des/arth_app.git
+   ```
+   git clone https://github.com/s1dc0des/arth_app.git
    flutter pub get
-   flutter run```
+   flutter run
+   ```
 
 
 
