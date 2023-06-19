@@ -29,27 +29,29 @@
 
 
 # Login
-
+## login via internet identity and nfid
 ![Alt text](/screenshots/login.jpeg)
 
 # Homescreen
-
+## mint/unmint btc<>ckbtc
 ![Alt text](/screenshots/home.png)
 
 # MINT
-
+## mint btc to ckbtc
+## deposit btc to your btc wallet. wait for 12 confirmations. then mint ckbtc
 ![Alt text](/screenshots/mint.png)
 
 
 # Unmint
-
+## unmint ckbtc to btc
+## deposit ckbtc to your wallet. enter your btc address for withdrawal. then unmint ckbtc
 ![Alt text](/screenshots/unmint.png)
 
 
 # wallet
-
+## manage your ckbtc wallet
 ![Alt text](/screenshots/wallet.png)
 
 # receive
-
-![Alt text](/screenshots/receive.png)
+## receive ckbtc
+![Alt text](/screenshots/qr.png)
