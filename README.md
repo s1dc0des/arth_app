@@ -1,12 +1,12 @@
 
-#Arth wallet. mint ckBTC from btc directly from ckbtc minter. and manage your ckbtc wallet.
-*** please read the code carefully and use small amounts ***
+# Arth wallet. mint ckBTC from btc directly from ckbtc minter. and manage your ckbtc wallet.
+### please read the code carefully and use small amounts ***
 
-install flutter
-   https://flutter.dev/docs/get-started/install
+### install flutter
+    https://flutter.dev/docs/get-started/install
 
 
-How to run
+## How to run
    ```
    git clone https://github.com/s1dc0des/arth_app.git
    flutter pub get
@@ -16,16 +16,16 @@ How to run
 
 
 
-App architecture
+## App architecture
 
-login methods
+### login methods
    - internet identity
    - nfid
 
 
-features
+### features
    - mint/unmint btc<>ckbtc
    - wallet for ckbtc
 
 Login
-![Alt text](/screenshots/login.jpeg?raw=true "Login")
+![Alt text](/screenshots/login.jpeg?raw=true "Login", width="200", height="400")
