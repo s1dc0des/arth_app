@@ -54,4 +54,4 @@
 
 # receive
 ## receive ckbtc
-![Alt text](/screenshots/qr.png)
+![Alt text](/screenshots/qr.PNG)
