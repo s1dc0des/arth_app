@@ -28,4 +28,4 @@
    - wallet for ckbtc
 
 Login
-![Alt text](/screenshots/login.jpeg?raw=true "Login", width="200", height="400")
+![Alt text](/screenshots/login.jpeg?raw=true "Login" = 200x400)
