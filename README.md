@@ -1,4 +1,5 @@
 
+#Arth wallet. mint ckBTC from btc directly from ckbtc minter. and manage your ckbtc wallet.#
 *** please read the code carefully and use small amounts ***
 
 install flutter
