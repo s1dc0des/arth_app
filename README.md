@@ -28,6 +28,9 @@
    - wallet for ckbtc
 
 
+# Architecture
+![Alt text](/screenshots/architecture.png)
+
 # Login
 ## login via internet identity and nfid
 ![Alt text](/screenshots/login.jpeg)
