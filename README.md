@@ -23,24 +23,24 @@
 
 # Homescreen
 ## mint/unmint btc<>ckbtc
-<img src="/screenshots/home.jpeg" width="200" height="420">
+<img src="/screenshots/home.png" width="200" height="420">
 
 
 # MINT
 ## mint btc to ckbtc
 ## deposit btc to your btc wallet. wait for 12 confirmations. then mint ckbtc
-<img src="/screenshots/mint.jpeg" width="200" height="420">
+<img src="/screenshots/mint.png" width="200" height="420">
 
 
 # Unmint
 ## unmint ckbtc to btc
 ## deposit ckbtc to your wallet. enter your btc address for withdrawal. then unmint ckbtc
-<img src="/screenshots/unmint.jpeg" width="200" height="420">
+<img src="/screenshots/unmint.unmint" width="200" height="420">
 
 
 # wallet
 ## manage your ckbtc wallet
-<img src="/screenshots/wallet.jpeg" width="200" height="420">
+<img src="/screenshots/wallet.png" width="200" height="420">
 
 # receive
 ## receive ckbtc
