@@ -35,7 +35,7 @@
 # Unmint
 ## unmint ckbtc to btc
 ## deposit ckbtc to your wallet. enter your btc address for withdrawal. then unmint ckbtc
-<img src="/screenshots/unmint.unmint" width="200" height="420">
+<img src="/screenshots/unmint.unmint.png" width="200" height="420">
 
 
 # wallet
