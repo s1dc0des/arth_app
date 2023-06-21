@@ -33,7 +33,8 @@
 
 # Login
 ## login via internet identity and nfid
-![Alt text](/screenshots/login.jpeg)
+<!-- ![Alt text](/screenshots/login.jpeg) -->
+<img src="/screenshots/login.jpeg" width="200" height="420">
 
 # Homescreen
 ## mint/unmint btc<>ckbtc
